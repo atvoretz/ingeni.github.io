@@ -2,10 +2,12 @@
   align: center;
   width: 80%;
   font-family: georgia;
+  background-color: #ff0000
 }
 .article {
   align: center;
   width: 60%;
   font-style: georgia;
   font-size: 20px;
+  background-color: #0000ff
 }
