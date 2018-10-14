@@ -1,11 +1,11 @@
 header {
   align: center;
   width: 80%;
-  font-family: georgia;
+  font-family: georgia; 
 }
 article {
   align: center;
   width: 60%;
   font-style: georgia;
-  font-size: 120px;
+  font-size: 20px;
 }
