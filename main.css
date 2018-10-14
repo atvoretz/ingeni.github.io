@@ -1,4 +1,11 @@
-p {align-content: center;
+header {
+  align: center;
+  width: 80%;
+  font-family: georgia;
+}
+article {
+  align: center;
+  width: 60%;
   font-style: georgia;
-font-size: 15px}
-article {width: 65%; align:center}
+  font-size: 120px;
+}
