@@ -1,9 +1,9 @@
-header {
+.header {
   align: center;
   width: 80%;
-  font-family: georgia; 
+  font-family: georgia;
 }
-article {
+.article {
   align: center;
   width: 60%;
   font-style: georgia;
