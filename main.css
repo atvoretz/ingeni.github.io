@@ -14,3 +14,15 @@
 .menu {
   text-align: center;
 }
+.menu a:link{
+  color: #00ff00;
+  text-decoration: none;
+}
+.menu a:active{
+  color: #00ff00;
+  text-decoration: none;
+}
+.menu a:hover{
+  color: #00ff00;
+  text-decoration: none;
+}
